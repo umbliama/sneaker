@@ -61,6 +61,7 @@ function makeLinkActive(e) {
       });
     });
   });
+  e.preventDefault();
 }
 
 makeLinkActive();
