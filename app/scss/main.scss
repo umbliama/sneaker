@@ -1,0 +1,10 @@
+@import "./utility/fonts";
+@import "./utility/vars.scss";
+@import "./utility/components";
+@import "./utility/media";
+@import "./header.scss";
+@import "./product.scss";
+* {
+  margin: 0;
+  padding: 0;
+}
